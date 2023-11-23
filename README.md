@@ -24,7 +24,7 @@ Do generalists behave in a more or less agreeable manner than specialists?
 
 ## Methods
 
-- We did some data cleaning to prepare the data.
+- We clean and prepare the data.
 - We use the word-to-vec algorithm to create the embedding.
 - We use the GS score as defined in the paper to calculate how specialist or generalist a user is.
 - We use sentiment analysis to calculate the agreeableness of a user on Reddit (AD-score).
