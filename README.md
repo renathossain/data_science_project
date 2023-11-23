@@ -29,7 +29,7 @@ Do generalists behave in a more or less agreeable manner than specialists?
 - We use the GS score as defined in the paper to calculate how specialist or generalist a user is.
 - We use sentiment analysis to calculate the agreeableness of a user on Reddit (AD-score).
 - We ran correlations and other statistics to find out how specialists and generalists differ in agreeableness.
-- We visualize GS-score vs AD-score on a scatter plot.
+- See if we can predict GS-score to AD-score or vice versa accurately using a classifier or regressor.
 - Partition data based on user and time (perhaps months or years) and calculate GS-score and AD-score for a user at each time partition, and plot histograms of changes (deltas) in GS / AD score.
 - Calculate word community embedding center of mass for each time interval and plot histogram of changes (deltas), and also view example trajectories.
 
