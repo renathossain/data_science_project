@@ -21,6 +21,8 @@ Do generalists behave in a more or less agreeable manner than specialists?
 - If so, how far does their center of mass (in word2vec encoding) shift?
 - What are the characteristics of these shifts if they happen?
 - Do they tend to be biased in specific directions, and do shifts in specialization occur bidirectionally or unidirectionally?
+- How much do different subreddits compain?
+- Are complainers more likely to be generalists or specialists?
 
 ## Methods
 
