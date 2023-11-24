@@ -35,7 +35,7 @@ Do generalists behave in a more or less agreeable manner than specialists?
 - Partition data based on user and time (perhaps months or years) and calculate GS-score and AD-score for a user at each time partition, and plot histograms of changes (deltas) in GS / AD score.
 - Calculate word community embedding center of mass for each time interval and plot histogram of changes (deltas), and also view example trajectories.
 
-## List of contributions from each team member
+## Organization within the team
 
 ### Renat Hossain
 
