@@ -39,10 +39,15 @@ Do generalists behave in a more or less agreeable manner than specialists?
 
 ### Renat Hossain
 
-- Did the title
-- Did the methods
+- For this milestone, I did the title and the methods.
+- I will help with preprocessing the data, and do the AD-score.
+- I will do the statistical analyses.
+- I will assist with writing the blog post.
 
 ### Anis Saha
 
-- Did the abstract
-- Did the research questions
+- For this milestone, I did the abstract and the research questions.
+- I will help with preprocessing the data, and do the GS-score.
+- I will do the visualizations.
+- I will assist with writing the blog post.
+
